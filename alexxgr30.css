@@ -1,0 +1,45 @@
+body
+{
+    background-image: url("https://w0.peakpx.com/wallpaper/804/213/HD-wallpaper-fc-barcelona-barca-football.jpg");
+    background-repeat: repeat;
+    text-align: left;
+}
+h1
+{
+    letter-spacing: 0,1em;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+nav
+{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+title
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhk1Oa3bKCopck-PEXbLAfXawShO0oj_Rq3-sZqW0vU0zm0XGdwiR5FgfmERYJOIKy-cg&usqp=CAU");
+}
+h2
+{
+    letter-spacing: 0,1em;
+    color: #0004ff;
+    text-align: left;
+}
+h3
+{
+    
+   letter-spacing: 0,1em;
+   color: rgb(64, 207, 255);
+   text-align: left;
+    
+}
+footer
+{
+    text-align: center;
+}
+h4
+{
+    letter-spacing: 0,1em;
+    color: #0004ff;
+    text-align: center;
+}
